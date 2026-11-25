@@ -80,3 +80,10 @@ Tested with gdsfactory 9.51.0, femwell 0.1.12, scikit-fem 12.0.2 and KLayout 0.3
 | `layout.py` | GDS generation |
 | `drc.py` | KLayout DRC deck |
 | `render.py` | Layout images from the GDS |
+
+## Author
+
+**Rakshith Suresh**
+MS Electrical Engineering, Viterbi School of Engineering, University of Southern California
+
+[GitHub](https://github.com/RakshithSuresh2001) | [LinkedIn](https://www.linkedin.com/in/rakshith-suresh-890329258) | [Website](https://rakshithsuresh2001.github.io)
